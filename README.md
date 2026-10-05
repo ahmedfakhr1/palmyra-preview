@@ -1,3 +1,2 @@
-# Petit Palmyra preview
-
-A preview concept by Ahmed Fakhreldin, drawn from public posts, menu and logo. Not an official site.
+Static preview site for palmyra.
+Preview built from the shared dining template.
